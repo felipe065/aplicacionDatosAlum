@@ -1,16 +1,14 @@
-# aplicacion
+# Datos del Alumno
 
-A new Flutter project.
+La aplicación tiene como objetivo mostrar los datos del alumno asi como su horario escolar. Para consolidar la app se uso Witgets, Cards, botones e imagenes.
 
-## Getting Started
+## Resultados
 
-This project is a starting point for a Flutter application.
+[![Whats-App-Image-2022-10-04-at-1-46-52-AM.jpg](https://i.postimg.cc/3wBZ2PKq/Whats-App-Image-2022-10-04-at-1-46-52-AM.jpg)](https://postimg.cc/FfYc4Ckb)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Datos de la Materia 
+- Nombre: Felipe Paredes Pérez
+- Cuatrimestre: Décimo
+- Nombre de la Carrera: Ingenieria en Desarrollo y Gestión de Software
+- Materia: Desarrollo Móvil Integral
+- Docente: M.T.I. Marco Antonio Ramírez Hérnadez
